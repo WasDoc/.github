@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./hero.png" alt="WasDoc Hero" width="900" />
+  <img src="../hero.png" alt="WasDoc Hero" width="900" />
 </div>
 
 # WasDoc: The Future of ATS-Verified Infographic Resumes 🚀
