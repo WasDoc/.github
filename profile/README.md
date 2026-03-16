@@ -8,10 +8,7 @@
 
 **WasDoc** resolves the **Visual vs. Parseable Paradox**. We empower candidates to stand out with high-impact, infographic-style resumes that are **99% readable by Applicant Tracking Systems (ATS)** using our proprietary dual-layer technology.
 
-
-
 ---
-
 
 <h2>🧩 Industry Overview: Hiring Architecture</h2>
 
@@ -44,7 +41,6 @@ Without verification, the entire pipeline is partially blind<br/>
 like hiring through fog while the best candidates are trying to be seen.
 </blockquote>
 
-
 ---
 
 ## 🛠️ The Tech Behind the Win 
@@ -53,9 +49,10 @@ We provide an enterprise-grade intelligence layer that ensures your career story
 | Feature | What It Does for You |
 | :--- | :--- |
 | **Dual-Layer PDF** | A high-quality visual layer for human recruiters + an invisible transcript layer for ATS bots. |
-| **Deep Verification** | (99% parsing accuracy) and O*Net/SOC occupation taxonomy consistency. |
+| **Deep Verification** | (99% parsing accuracy), ATS score visibility, and O*Net/SOC occupation taxonomy consistency. |
 | **Talent Intelligence** | Extracts structured skills with confidence scores to match you with the right roles. |
-| **ATS Matrix** | Rigorously tested against Greenhouse, Workable, iCIMS, and Lever. |
+| **Role-Targeted Optimization** | Tailors resume output to target job language for better ATS parsing and recruiter readability. |
+| **Cover Letter Generator** | Pro plans include tailored cover letters aligned to the same target role. |
 
 ---
 
@@ -63,10 +60,13 @@ We provide an enterprise-grade intelligence layer that ensures your career story
 
 | Plan | Best For... | Investment |
 | :--- | :--- | :--- |
-| **ATS Resume Audit** | Candidates with an existing resume who need guaranteed parsing. | **$39** |
-| **ATS-Verified Infographic** | High-level professionals wanting a custom-designed, visual edge. | **$99** |
+| **ATS Optimizer Monthly** | Active job seekers who want ongoing role-targeted ATS optimization. | **$19/month** |
+| **ATS Optimizer One-Time** | Candidates who need a one-time ATS optimization pass for a specific role. | **$39** |
+| **Pro Plan Monthly** | Professionals who want ATS optimization + tailored cover letters on an ongoing basis. | **$39/month** |
+| **Pro Plan One-Time** | Candidates who want resume optimization + one tailored cover letter in a single purchase. | **$69** |
+| **Infographic Resume Design** | High-level professionals wanting a custom-designed, visual edge. | **$129** |
 
-*All plans include a full verification audit and the embedded ATS transcript layer.*
+*All ATS-focused plans include verification workflow support and parser-aware optimization.*
 
 ---
 
@@ -78,8 +78,6 @@ Stay updated with the latest in career tech and resume optimization strategies.
 [![Instagram](https://img.shields.io/badge/Instagram-@wasdoc-E4405F?logo=instagram&logoColor=white)](https://instagram.com/wasdoc)
 [![TikTok](https://img.shields.io/badge/TikTok-@getwasdoc-000000?logo=tiktok&logoColor=white)](https://www.tiktok.com/@getwasdoc)
 [![X](https://img.shields.io/badge/X-@wasdoc-000000?logo=x&logoColor=white)](https://x.com/wasdoc)
-
-
 
 ---
 
@@ -101,3 +99,5 @@ Earn a **10% recurring commission** by helping candidates stand out. Join our ne
   Built with ❤️ for the future of talent. <br />
   <strong>WasDoc.com</strong>
 </p>
+
+
